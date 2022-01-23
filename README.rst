@@ -1,6 +1,6 @@
-================================
-Python Package Skeleton Template
-================================
+=======================================
+Merkle DAG Genetic Engineering Database
+=======================================
 
 .. image:: https://github.com/joaomcteixeira/python-project-skeleton/workflows/Tests/badge.svg?branch=master
     :target: https://github.com/joaomcteixeira/python-project-skeleton/actions?workflow=Tests
